@@ -99,9 +99,9 @@
 <?php
   if ($showMap) {
 ?>
-<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.4/leaflet.css" />
+<link rel="stylesheet" href="https://cdn.leafletjs.com/leaflet-0.4/leaflet.css" />
 <!--[if lte IE 8]>
-    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.4/leaflet.ie.css" />
+    <link rel="stylesheet" href="https://cdn.leafletjs.com/leaflet-0.4/leaflet.ie.css" />
 <![endif]-->
 <link rel="stylesheet" href="Icon.Label.css" />
 
@@ -168,7 +168,7 @@ html, body {
   }
 ?>
 </script>
-<script src="http://cdn.leafletjs.com/leaflet-0.4/leaflet.js"></script>
+<script src="https://cdn.leafletjs.com/leaflet-0.4/leaflet.js"></script>
 <script src="Icon.Label.js"></script>
 
 <div id="map"></div>
